@@ -4,12 +4,14 @@
             <v-container class="my-2">
                 <v-form ref="form" class="mb-2">
                     <v-layout row wrap>
-                        <v-flex xs12 sm6>
+                        <v-flex xs12 sm12>
                             <v-text-field v-model="q" label="キーワード / Keyword" name="q" class="mx-2"></v-text-field>
                         </v-flex>
+                        <!--
                         <v-flex xs12 sm6>
                             <v-text-field v-model="date" name="date" label="年月 / Year and Month" class="mx-2"></v-text-field>
                         </v-flex>
+                        -->
     
                         <v-btn color="primary" @click="updatePath">
                             <i class="material-icons">search</i>
