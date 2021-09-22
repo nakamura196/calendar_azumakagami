@@ -15,7 +15,7 @@
     "@fullcalendar/vue": "^4.2.2",
     "axios": "^0.19.0",
     "chart.js": "^2.8.0",
-    "chartkick": "^3.1.0",
+    "chartkick": "^3.2.0",
     "google-palette": "^1.1.0",
     "hchs-vue-charts": "^1.2.8",
     "leaflet": "^1.5.1",
